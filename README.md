@@ -1,9 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Musalim </h1> 
+<!--🎯 🚀👋 -->
+<p align="center">
+  An Informatics student passionate about <strong>backend development</strong> and building real-life <strong>service-based systems</strong>.
+</p>
+<p align="center">
+   Currently focusing on: <strong>Backend, REST APIs, and Dockerized services</strong> <br>
+   Long-term goal: Becoming a well-rounded <strong>Fullstack Developer</strong>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=friedcarr0t)
 
-TechStack
-<h3>When I code, I rely on</h3>
+<h3>Tech Stack</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
@@ -15,14 +22,26 @@ TechStack
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 
 </p>
-<h3>Im currently learning</h3>
+<h3>Currently learning</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-<h3>My GitHub contributions summary</h3>
+### Featured Projects
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=friedcarr0t&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+- **[CodeLingo](https://github.com/friedcarr0t/CodeLingo)**  
+  A gamified coding-learning platform with backend logic, services, and full database integration. 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=friedcarr0t&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+- **[Job Application Tracker](https://github.com/friedcarr0t/job-application-tracker)** *(in development)*  
+  A backend service to help track your job applications, perfect for developers actively applying to companies.
+
+---
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=friedcarr0t&show_icons=true&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=friedcarr0t&layout=compact&theme=tokyonight" width="47%" />
+</p>
+
+---
