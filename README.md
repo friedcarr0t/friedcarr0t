@@ -29,7 +29,7 @@
 ### Featured Projects
 
 - **[CodeLingo](https://github.com/friedcarr0t/CodeLingo)**  
-  A gamified coding-learning platform with backend logic, services, and full database integration. 
+  A gamified coding-learning for beginner app. 
 
 - **[Job Application Tracker](https://github.com/friedcarr0t/job-application-tracker)** *(in development)*  
   A backend service to help track your job applications, perfect for developers actively applying to companies.
