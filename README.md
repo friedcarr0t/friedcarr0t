@@ -8,7 +8,6 @@
    Long-term goal: Becoming a well-rounded <strong>Fullstack Developer</strong>
 </p>
 
-![](https://komarev.com/ghpvc/?username=friedcarr0t)
 
 <h3>Tech Stack</h3>
 <p>
@@ -45,3 +44,4 @@
 </p>
 
 ---
+![](https://komarev.com/ghpvc/?username=friedcarr0t)
