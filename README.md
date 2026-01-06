@@ -14,6 +14,9 @@
 - **[Football Data Analysis](https://github.com/friedcarr0t/football-data-analysis)**  
   A football match data analysis.
 
+- **[Bone Fracture Classification](https://github.com/friedcarr0t/bone-fracture-classification)**  
+  A model to classify bone fracture using x-ray image
+
 - **[CodeLingo](https://github.com/friedcarr0t/CodeLingo)**  
   A gamified coding-learning for beginner app. 
 
