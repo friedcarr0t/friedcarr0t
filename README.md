@@ -11,6 +11,8 @@
 </p>
 
 ### Featured Projects
+- **[Football Data Analysis](https://github.com/friedcarr0t/football-data-analysis)**  
+  A football match data analysis.
 
 - **[CodeLingo](https://github.com/friedcarr0t/CodeLingo)**  
   A gamified coding-learning for beginner app. 
