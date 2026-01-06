@@ -1,5 +1,4 @@
 
-![banner-git](https://github.com/user-attachments/assets/a9ed6548-a9c8-4838-9cb0-364da04bc98c)
 
 <h1>Hi, I'm Musalim </h1> 
 <!--🎯 🚀👋 -->
@@ -36,14 +35,5 @@
 
 - **[Job Application Tracker](https://github.com/friedcarr0t/job-application-tracker)** *(in development)*  
   A backend service to help track your job applications, perfect for developers actively applying to companies.
-
 ---
-### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=friedcarr0t&show_icons=true&theme=tokyonight" width="52%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=friedcarr0t&layout=compact&theme=tokyonight" width="47%" />
-</p>
-
----
-![](https://komarev.com/ghpvc/?username=friedcarr0t)
