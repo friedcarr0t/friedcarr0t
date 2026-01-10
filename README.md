@@ -14,6 +14,9 @@
 - **[Football Data Analysis](https://github.com/friedcarr0t/football-data-analysis)**  
   A football match data analysis.
 
+- **[Diabetes Prediction Models](https://github.com/friedcarr0t/diabetes-prediction-ml)**  
+  Models performance comparison for diabetes prediction.
+
 - **[Bone Fracture Classification](https://github.com/friedcarr0t/bone-fracture-classification)**  
   A model to classify bone fracture using x-ray image
 
