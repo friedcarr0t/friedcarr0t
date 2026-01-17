@@ -11,6 +11,9 @@
 </p>
 
 ### Featured Projects
+- **[Car Sales Analysis](https://github.com/friedcarr0t/car-sales-analysis)**  
+  Car sales data analysis to gain insights
+  
 - **[Football Data Analysis](https://github.com/friedcarr0t/football-data-analysis)**  
   A football match data analysis.
 
