@@ -3,7 +3,7 @@
 <h1>Hi, I'm Musalim </h1> 
 <!--🎯 🚀👋 -->
 <p>
-  An Informatics student passionate about <strong>Data Engineering and Machine Learning</strong>
+  An Informatics student passionate about <strong>Data and Machine Learning</strong>
 </p>
 <p>
    Currently focusing on: <strong>Data Analytical</strong> <br>
